@@ -1,3 +1,4 @@
+
 # 04.shopping
 
 ## Project setup
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# hm-shopping
+ An exercise about vue
+
